@@ -29,11 +29,7 @@ This repository contains the implementation of a logical gate circuit using the 
 
 ## Authors
 
-RIDAM ADITYA SINHA
-
-https://www.linkedin.com/in/ridam-sinha-188133210/
-
-ridamsinha20@gmail.com
+Aryan Sharma
 
 ## License
 
