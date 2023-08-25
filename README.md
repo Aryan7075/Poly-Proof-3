@@ -1,1 +1,0 @@
-# Poly-Proof-3
